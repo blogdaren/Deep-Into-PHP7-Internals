@@ -29,5 +29,6 @@
 * [【第05C节】深入PHP内核源码：研究save_ps_args()](https://www.bilibili.com/video/BV1fa411V77x/)   
 * [【第05D节】深入PHP内核源码：研究php_init_config()](https://www.bilibili.com/video/BV1mG4y1q7XY/)   
 * [【第06A节】深入PHP内核源码：SAPI 到底是什么？](https://www.bilibili.com/video/BV1Ge4y1S7Cg/)   
+* [【第06B节】深入PHP内核源码：研究PHP-FPM工作原理](https://www.bilibili.com/video/BV1UP411w7vG/)   
 * 【第XXX节】**持续更新中...................................................**    
 
