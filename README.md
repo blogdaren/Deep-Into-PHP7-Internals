@@ -40,5 +40,6 @@
 * [【第06D节】深入PHP内核源码：研究PHP-FPM工作原理](https://www.bilibili.com/video/BV1r44y1U7VV/)   
 * [【第06E节】深入PHP内核源码：研究PHP-FPM工作原理](https://www.bilibili.com/video/BV1UX4y1U7Jx/)   
 * [【第06F节】深入PHP内核源码：研究PHP-FPM工作原理](https://www.bilibili.com/video/BV1FP411o7ZP/)   
+* [【第06G节】深入PHP内核源码：研究PHP-FPM工作原理](https://www.bilibili.com/video/BV1QT411q7uA/)   
 * 【第XXX节】**预计会高达100节：持续更新中...................................**    
 
