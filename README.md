@@ -1,4 +1,4 @@
-## 《深入PHP内核源码》【原创录制】
+##《深入PHP内核源码》【原创录制】
 
 * 研究对象：视频研究的是PHP内核源码，而不是PHP上层，换句话：**研究的是工业级的C项目：PHP解释器**。
 
@@ -28,7 +28,7 @@
 
 * 或访问：[http://www.phpcreeper.com](http://www.phpcreeper.com)
 
-## 视频连载
+## 公开视频
 
 * [【第01节】深入PHP内核源码：先看要研究啥？](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
 * [【第02节】深入PHP内核源码：准备调试环境](https://www.bilibili.com/video/BV1Fb4y1H7C1/)   
