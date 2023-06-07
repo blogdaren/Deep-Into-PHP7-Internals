@@ -19,12 +19,12 @@
 
 ## 购买支持
 
-佛系程序猿，B站有发布若干节公开视频，对于后续即将录制的新视频将部分随缘公开，这也是作者第一次将知识商品化，
-视频创作实属不易，作为同行大家也都不容易，都在为生活而努力拼搏，若视频对你有价值，[欢迎购买支持](https://item.taobao.com/item.htm?ft=t&id=719914277319)。
+B站有发布若干节公开视频，对于后续即将录制的新视频将部分随机公开，这是作者第一次将知识商品化，
+视频创作实属不易，若视频对你有价值，[欢迎购买支持全套视频](https://m.tb.cn/h.UwjzCTN)。
 
 ## 购买渠道
 
-* 或直达淘宝店铺：[程序猿虎哥](https://item.taobao.com/item.htm?ft=t&id=719914277319)
+* 或直达淘宝店铺：[程序猿虎哥](https://m.tb.cn/h.UwjzCTN)
 
 * 或搜索淘宝店铺：程序猿虎哥
 
@@ -55,5 +55,5 @@
 * [【第19节】深入PHP内核源码：PHP-FPM工作原理](https://www.bilibili.com/video/BV1Gk4y1J7cV/)   
 * [【第20节】深入PHP内核源码：PHP-FPM工作原理](https://www.bilibili.com/video/BV1UX4y117Ei/)   
 * [【第21节】深入PHP内核源码：PHP-FPM工作原理](https://www.bilibili.com/video/BV1Bs4y1i7mA/)   
-* 【第XXX节】**预计会高达100节：持续录制，创作不易，欢迎[点此购买支持](https://item.taobao.com/item.htm?ft=t&id=719914277319)全套视频。**
+* 【第XXX节】**预计会高达100节：持续录制，创作不易，欢迎[点此购买支持](https://m.tb.cn/h.UwjzCTN)全套视频。**
 
