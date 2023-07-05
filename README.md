@@ -56,8 +56,8 @@
 * [【第19节】深入PHP内核源码：PHP-FPM进程退出细节](https://www.bilibili.com/video/BV1Gk4y1J7cV/)   
 * [【第20节】深入PHP内核源码：PHP-FPM进程伸缩管理](https://www.bilibili.com/video/BV1UX4y117Ei/)   
 * [【第21节】深入PHP内核源码：PHP-FPM请求阶段细节](https://www.bilibili.com/video/BV1Bs4y1i7mA/)   
-* [【第22节】深入PHP内核源码：PHP-FPM对端工作原理](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
-* [【第23节】深入PHP内核源码：FastCGI核心数据结构](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
-* [【第24节】深入PHP内核源码：FastCGI客户端实现](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
+* 【第22节】深入PHP内核源码：PHP-FPM对端工作原理   
+* 【第23节】深入PHP内核源码：FastCGI核心数据结构   
+* 【第24节】深入PHP内核源码：FastCGI客户端实现  
 * 【第XXX节】**预计会高达100节：持续录制，创作不易，欢迎[点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)。**
 
