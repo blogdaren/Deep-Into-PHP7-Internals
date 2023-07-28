@@ -1,11 +1,11 @@
 # 《深入PHP内核源码》【原创视频课程】
 
 ## 研究对象
-* 视频研究的是PHP内核源码，而不是PHP上层或周边，换句话：**研究的是工业级的C项目：PHP解释器**。
+* 视频课程研究的是PHP内核源码，而不是PHP上层或周边，换句话：**研究的是工业级的C项目：PHP解释器**。
 
 ## 视频说明
 
-* 视频没有任何花里胡哨的东西，只有求真务实的源码探索，以及探索许许多个为什么。
+* 视频中没有任何花里胡哨的东西，只有求真务实的源码探索，以及探索许许多个为什么。
 
 * 视频课程是作者虎哥一点一滴亲力而为用心打造的原创制作，全部立足于调试与实战。
 
@@ -36,25 +36,25 @@
 ## 公开视频
 
 * [【第01节】深入PHP内核源码：先看要研究啥？](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
-* [【第02节】深入PHP内核源码：准备调试环境](https://www.bilibili.com/video/BV1Fb4y1H7C1/)   
+* 【第02节】深入PHP内核源码：准备调试环境   
 * [【第03节】深入PHP内核源码：探索生命周期](https://www.bilibili.com/video/BV1XS4y1376q/)   
-* [【第04节】深入PHP内核源码：探索生命周期](https://www.bilibili.com/video/BV1TZ4y1m7PD/)   
-* [【第05节】深入PHP内核源码：研究PCTNL源码](https://www.bilibili.com/video/BV1dB4y127HX/)   
+* 【第04节】深入PHP内核源码：探索生命周期   
+* 【第05节】深入PHP内核源码：研究PCTNL源码   
 * [【第06节】深入PHP内核源码：实战PCNTL信号](https://www.bilibili.com/video/BV1NZ4y1t728/)   
 * [【第07节】深入PHP内核源码：实战内核异步信号](https://www.bilibili.com/video/BV1mY411T7No/)   
-* [【第08节】深入PHP内核源码：研究生命周期源码](https://www.bilibili.com/video/BV1gt4y1V7gD/)   
-* [【第09节】深入PHP内核源码：研究生命周期源码](https://www.bilibili.com/video/BV1Vt4y1g7RW/)   
-* [【第10节】深入PHP内核源码：安全修改进程标题](https://www.bilibili.com/video/BV1fa411V77x/)   
-* [【第11节】深入PHP内核源码：解析PHP配置文件](https://www.bilibili.com/video/BV1mG4y1q7XY/)   
-* [【第12节】深入PHP内核源码：SAPI到底是什么？](https://www.bilibili.com/video/BV1Ge4y1S7Cg/)   
-* [【第13节】深入PHP内核源码：PHP-FPM配置文件详解](https://www.bilibili.com/video/BV1UP411w7vG/)   
-* [【第14节】深入PHP内核源码：PHP-FPM核心数据结构](https://www.bilibili.com/video/BV1Z841187tU/)   
-* [【第15节】深入PHP内核源码：PHP-FPM初始阶段细节](https://www.bilibili.com/video/BV1r44y1U7VV/)   
+* 【第08节】深入PHP内核源码：研究生命周期源码   
+* 【第09节】深入PHP内核源码：研究生命周期源码   
+* 【第10节】深入PHP内核源码：安全修改进程标题   
+* 【第11节】深入PHP内核源码：解析PHP配置文件   
+* 【第12节】深入PHP内核源码：SAPI到底是什么？   
+* 【第13节】深入PHP内核源码：PHP-FPM配置文件详解   
+* 【第14节】深入PHP内核源码：PHP-FPM核心数据结构   
+* 【第15节】深入PHP内核源码：PHP-FPM初始阶段细节   
 * [【第16节】深入PHP内核源码：PHP-FPM初始阶段细节](https://www.bilibili.com/video/BV1UX4y1U7Jx/)   
-* [【第17节】深入PHP内核源码：PHP-FPM运行阶段细节](https://www.bilibili.com/video/BV1FP411o7ZP/)   
+* 【第17节】深入PHP内核源码：PHP-FPM运行阶段细节   
 * [【第18节】深入PHP内核源码：PHP-FPM陷入事件循环](https://www.bilibili.com/video/BV1QT411q7uA/)   
-* [【第19节】深入PHP内核源码：PHP-FPM进程退出细节](https://www.bilibili.com/video/BV1Gk4y1J7cV/)   
-* [【第20节】深入PHP内核源码：PHP-FPM进程伸缩管理](https://www.bilibili.com/video/BV1UX4y117Ei/)   
+* 【第19节】深入PHP内核源码：PHP-FPM进程退出细节   
+* 【第20节】深入PHP内核源码：PHP-FPM进程伸缩管理   
 * [【第21节】深入PHP内核源码：PHP-FPM请求阶段细节](https://www.bilibili.com/video/BV1Bs4y1i7mA/)   
 * 【第22节】深入PHP内核源码：PHP-FPM对端工作原理   
 * 【第23节】深入PHP内核源码：FastCGI核心数据结构   
