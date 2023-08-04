@@ -61,5 +61,6 @@
 * 【第24节】深入PHP内核源码：FastCGI客户端实现  
 * 【第25节】深入PHP内核源码：FastCGI服务端实现  
 * [【第26节】深入PHP内核源码：PHP-FPM处理POST数据细节](https://www.bilibili.com/video/BV1Th4y157j5/)
+* 【第27节】深入PHP内核源码：PHP-FPM处理POST数据细节
 * 【第XX节】**预计会高达100节：[欢迎点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)**
 
