@@ -41,7 +41,7 @@
 * 【第04节】深入PHP内核源码：探索生命周期   
 * 【第05节】深入PHP内核源码：研究PCTNL源码   
 * [【第06节】深入PHP内核源码：实战PCNTL信号](https://www.bilibili.com/video/BV1NZ4y1t728/)   
-* [【第07节】深入PHP内核源码：实战内核异步信号](https://www.bilibili.com/video/BV1mY411T7No/)   
+* 【第07节】深入PHP内核源码：实战内核异步信号   
 * 【第08节】深入PHP内核源码：研究生命周期源码   
 * 【第09节】深入PHP内核源码：研究生命周期源码   
 * 【第10节】深入PHP内核源码：安全修改进程标题   
@@ -52,7 +52,7 @@
 * 【第15节】深入PHP内核源码：PHP-FPM初始阶段细节   
 * [【第16节】深入PHP内核源码：PHP-FPM初始阶段细节](https://www.bilibili.com/video/BV1UX4y1U7Jx/)   
 * 【第17节】深入PHP内核源码：PHP-FPM运行阶段细节   
-* [【第18节】深入PHP内核源码：PHP-FPM陷入事件循环](https://www.bilibili.com/video/BV1QT411q7uA/)   
+* 【第18节】深入PHP内核源码：PHP-FPM陷入事件循环   
 * 【第19节】深入PHP内核源码：PHP-FPM进程退出细节   
 * 【第20节】深入PHP内核源码：PHP-FPM进程伸缩管理   
 * [【第21节】深入PHP内核源码：PHP-FPM请求阶段细节](https://www.bilibili.com/video/BV1Bs4y1i7mA/)   
@@ -63,6 +63,6 @@
 * [【第26节】深入PHP内核源码：PHP-FPM处理POST数据细节](https://www.bilibili.com/video/BV1Th4y157j5/)
 * 【第27节】深入PHP内核源码：PHP-FPM处理POST数据细节
 * 【第28节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战
-* 【第29节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战
+* [【第29节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战](https://www.bilibili.com/video/BV1rh4y1U7eW/)
 * 【第XX节】**预计会高达100节：[欢迎点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)**
 
