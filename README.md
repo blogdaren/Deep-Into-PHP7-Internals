@@ -63,5 +63,6 @@
 * [【第26节】深入PHP内核源码：PHP-FPM处理POST数据细节](https://www.bilibili.com/video/BV1Th4y157j5/)
 * 【第27节】深入PHP内核源码：PHP-FPM处理POST数据细节
 * 【第28节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战
+* 【第29节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战
 * 【第XX节】**预计会高达100节：[欢迎点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)**
 
