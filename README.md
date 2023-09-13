@@ -21,7 +21,7 @@
 
 ## 购买支持
 
-视频创作不易，若课程对你有价值，[欢迎点此购买支持全套视频课程](https://m.tb.cn/h.UwjzCTN)。
+若课程对你有价值，[欢迎点此购买支持全套视频课程](https://m.tb.cn/h.UwjzCTN)。
 
 ## 购买渠道
 
@@ -33,7 +33,7 @@
 
 * 或访问作者小站：[http://www.phpcreeper.com](http://www.phpcreeper.com)
 
-## 公开视频
+## 持续更新视频
 
 * [【第01节】深入PHP内核源码：先看要研究啥？](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
 * 【第02节】深入PHP内核源码：准备调试环境   
