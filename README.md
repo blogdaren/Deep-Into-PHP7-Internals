@@ -66,5 +66,6 @@
 * [【第29节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战](https://www.bilibili.com/video/BV1rh4y1U7eW/)
 * 【第30节】深入PHP内核源码：变量实现的核心数据结构ZVAL
 * 【第31节】深入PHP内核源码：实战ZVAL全类型变量表达
+* 【第32节】深入PHP内核源码：字符串实现的核心数据结构zend_string
 * 【第XX节】**预计会高达100节：[欢迎点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)**
 
