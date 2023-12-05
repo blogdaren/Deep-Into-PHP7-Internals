@@ -37,8 +37,8 @@
 
 * [【第01节】深入PHP内核源码：先看要研究啥？](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
 * 【第02节】深入PHP内核源码：准备调试环境   
-* [【第03节】深入PHP内核源码：探索生命周期](https://www.bilibili.com/video/BV1XS4y1376q/)   
-* 【第04节】深入PHP内核源码：探索生命周期   
+* [【第03节】深入PHP内核源码：PHP生命周期详述](https://www.bilibili.com/video/BV1XS4y1376q/)   
+* 【第04节】深入PHP内核源码：PHP生命周期详述   
 * 【第05节】深入PHP内核源码：研究PCTNL源码   
 * [【第06节】深入PHP内核源码：实战PCNTL信号](https://www.bilibili.com/video/BV1NZ4y1t728/)   
 * 【第07节】深入PHP内核源码：实战内核异步信号   
@@ -69,7 +69,7 @@
 * 【第32节】深入PHP内核源码：字符串实现的核心数据结构zend_string
 * 【第33节】深入PHP内核源码：字符串的分类以及实战
 * 【第34节】深入PHP内核源码：哈希表涉及的核心概念
-* 【第35节】深入PHP内核源码：哈希表核心数据结构
+* 【第35节】深入PHP内核源码：哈希表实现的核心数据结构
 * 【第36节】深入PHP内核源码：两种不同类型的数组packed array和hash array
 * 【第37节】深入PHP内核源码：哈希表的初始化
 * 【第38节】深入PHP内核源码：哈希表之元素插入
