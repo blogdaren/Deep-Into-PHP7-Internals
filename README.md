@@ -37,10 +37,10 @@
 
 * [【第01节】深入PHP内核源码：先看要研究啥？](https://www.bilibili.com/video/BV1pP4y1G7ae/)   
 * 【第02节】深入PHP内核源码：准备调试环境   
-* [【第03节】深入PHP内核源码：PHP生命周期详述](https://www.bilibili.com/video/BV1XS4y1376q/)   
+* 【第03节】深入PHP内核源码：PHP生命周期详述   
 * 【第04节】深入PHP内核源码：PHP生命周期详述   
-* 【第05节】深入PHP内核源码：研究PCTNL源码   
-* [【第06节】深入PHP内核源码：实战PCNTL信号](https://www.bilibili.com/video/BV1NZ4y1t728/)   
+* 【第05节】深入PHP内核源码：研究PCTNL扩展源码   
+* [【第06节】深入PHP内核源码：实战PCNTL信号机制](https://www.bilibili.com/video/BV1NZ4y1t728/)   
 * 【第07节】深入PHP内核源码：实战内核异步信号   
 * 【第08节】深入PHP内核源码：研究生命周期源码   
 * 【第09节】深入PHP内核源码：研究生命周期源码   
@@ -60,7 +60,7 @@
 * 【第23节】深入PHP内核源码：FastCGI核心数据结构   
 * 【第24节】深入PHP内核源码：FastCGI客户端实现  
 * 【第25节】深入PHP内核源码：FastCGI服务端实现  
-* [【第26节】深入PHP内核源码：PHP-FPM处理POST数据细节](https://www.bilibili.com/video/BV1Th4y157j5/)
+* 【第26节】深入PHP内核源码：PHP-FPM处理POST数据细节
 * 【第27节】深入PHP内核源码：PHP-FPM处理POST数据细节
 * 【第28节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战
 * [【第29节】深入PHP内核源码：面向四层协议的FastCGI协议抓包实战](https://www.bilibili.com/video/BV1rh4y1U7eW/)
@@ -74,5 +74,6 @@
 * 【第37节】深入PHP内核源码：哈希表的初始化
 * 【第38节】深入PHP内核源码：哈希表之元素插入
 * 【第39节】深入PHP内核源码：哈希表之元素冲突
+* 【第40节】深入PHP内核源码：哈希表之元素查找
 * 【第XX节】**预计会高达100节：[欢迎点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)**
 
