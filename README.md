@@ -78,5 +78,6 @@
 * 【第41节】深入PHP内核源码：哈希表之元素删除
 * 【第42节】深入PHP内核源码：哈希表之Resize & Rehash
 * 【第43节】深入PHP内核源码：哈希表之PackedArray转为HashArray
+* 【第44节】深入PHP内核源码：垃圾回收之引用计数   
 * 【第XX节】**预计会高达100节：[欢迎点此购买支持全套视频](https://m.tb.cn/h.UwjzCTN)**
 
