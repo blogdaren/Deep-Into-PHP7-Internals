@@ -13,19 +13,15 @@
 
 * B站有发布若干节公开视频，具体请[移步B站观看](https://www.bilibili.com/video/BV1pP4y1G7ae/)。
 
-## 购买支持
-
-若课程对你有价值，[欢迎点此购买支持全套视频课程](https://item.taobao.com/item.htm?ft=t&id=719914277319)。
-
 ## 购买渠道
 
-* 或直达淘宝店铺：[程序猿虎哥](https://m.tb.cn/h.UwjzCTN)
+* 或直达淘宝店铺：[程序猿虎哥](https://item.taobao.com/item.htm?ft=t&id=719914277319)
 
 * 或搜索淘宝店铺：程序猿虎哥
 
-* 或访问作者小站：[http://www.blogdaren.com](http://www.blogdaren.com)
+* 或通过作者小站：[http://www.blogdaren.com](http://www.blogdaren.com)
 
-* 或访问作者小站：[http://www.phpcreeper.com](http://www.phpcreeper.com)
+* 或通过作者小站：[http://www.phpcreeper.com](http://www.phpcreeper.com)
 
 ## 持续更新视频
 
