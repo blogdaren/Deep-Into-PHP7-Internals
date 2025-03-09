@@ -25,9 +25,9 @@
 
 * 或通过workerman社区：[感谢walkor大大授权，点此workerman社区置顶贴获取折扣，助力workerman社区发展](https://www.workerman.net/q/13673)
 
-* 或直达淘宝店铺：[程序猿虎哥](https://item.taobao.com/item.htm?ft=t&id=719914277319)
+* 或直达淘宝店铺：[程序员虎哥](https://item.taobao.com/item.htm?ft=t&id=719914277319)
 
-* 或搜索淘宝店铺：程序猿虎哥
+* 或搜索淘宝店铺：程序员虎哥
 
 * 或通过作者小站：[http://www.blogdaren.com](http://www.blogdaren.com)
 
