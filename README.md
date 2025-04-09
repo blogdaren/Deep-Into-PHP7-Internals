@@ -29,8 +29,6 @@
 
 * 或搜索淘宝店铺：程序员虎哥
 
-* 或通过作者小站：[http://www.blogdaren.com](http://www.blogdaren.com)
-
 * 或通过作者小站：[http://www.phpcreeper.com](http://www.phpcreeper.com)
 
 ## 持续更新视频
